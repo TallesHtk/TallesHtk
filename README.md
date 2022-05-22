@@ -16,7 +16,8 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Lua](https://img.shields.io/badge/-lua-05122A?style=flat&logo=lua)
+![Lua](https://img.shields.io/badge/-lua-05122A?style=flat&logo=lua)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
