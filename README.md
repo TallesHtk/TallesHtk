@@ -16,6 +16,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
+![Windows10](https://img.shields.io/badge/-Windows%2010-05122A?style=flat&logo=Windows)&nbsp;
 ![Kali](https://img.shields.io/badge/-KaliLinux-05122A?style=flat&logo=Kalilinux)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
