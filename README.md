@@ -16,6 +16,10 @@
 
 ## 🛠 &nbsp;Tech Stack
 
+![Kali](https://img.shields.io/badge/-KaliLinux-05122A?style=flat&logo=Kalilinux);
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu);
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux);
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-05122A?style=flat&logo=TryHackMe);
 ![Lua](https://img.shields.io/badge/-lua-05122A?style=flat&logo=lua)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
